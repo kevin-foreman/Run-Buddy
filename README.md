@@ -8,7 +8,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-https://lernantino.github.io/run-buddy/
+https://kevin-foreman.github.io/run-buddy-kevin-foreman/
 
 ## Contribution
 Made with ❤️ by MasterFlexTech
