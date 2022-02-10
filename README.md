@@ -1,5 +1,14 @@
-# run-buddy-kevin-foreman
+# Run Buddy
 
-## About Run Buddy
+## Purpose
+A website that offers fitness training services.
 
-###Details
+## Built With
+* HTML
+* CSS
+
+## Website
+https://lernantino.github.io/run-buddy/
+
+## Contribution
+Made with ❤️ by MasterFlexTech
