@@ -13,4 +13,4 @@ https://kevin-foreman.github.io/run-buddy-kevin-foreman/
 ## Contribution
 Made with ❤️ by MasterFlexTech
 
-### &Copy Run Buddy, Inc
+### &copy Run Buddy, Inc
