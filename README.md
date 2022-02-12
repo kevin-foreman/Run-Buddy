@@ -1,4 +1,4 @@
-# Run Buddy
+# Run Buddy, Inc
 
 ## Purpose
 A website that offers fitness training services.
@@ -12,3 +12,5 @@ https://kevin-foreman.github.io/run-buddy-kevin-foreman/
 
 ## Contribution
 Made with ❤️ by MasterFlexTech
+
+### &Copy Run Buddy, Inc
